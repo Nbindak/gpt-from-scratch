@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb.bak
+
+# PyTorch checkpoints (large — store in Git LFS or separately)
+checkpoints/pretrained/*.pt
+checkpoints/finetuned/*.pt
+
+# Results (re-generate)
+results/plots/*.png
+results/sample_generations/*.json
+results/evaluation_report.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+loss-plot.pdf
