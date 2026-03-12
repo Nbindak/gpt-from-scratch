@@ -1,0 +1,102 @@
+[
+  {
+    "instruction": "Write a short poem about a lighthouse.",
+    "input": "",
+    "output": "At the edge where land runs out of certainty,\nthe light keeps turning—\nnot asking if there are ships,\nnot wondering if they notice,\nsimply completing its slow circle\nthe way breathing completes itself,\nthe way tides do not pause\nto see if the shore appreciates the effort.\n\nSomeone tends it.\nSomeone always has."
+  },
+  {
+    "instruction": "Write a haiku about an old library.",
+    "input": "",
+    "output": "Dust on the spines—\nevery untouched book still holds\nits world inside, patient."
+  },
+  {
+    "instruction": "Write a haiku about the sea at dawn.",
+    "input": "",
+    "output": "Before the boats leave,\nthe harbor holds the whole sky—\nthen lets it go, quick."
+  },
+  {
+    "instruction": "Write a short poem about a garden tended across generations.",
+    "input": "",
+    "output": "She planted what her mother planted.\nHer mother planted what her grandmother\nbrought from a village no longer on the map.\n\nThe persimmon tree does not know this.\nIt flowers anyway,\nas it has always flowered,\nbefore any of them came\nand after all of them are gone."
+  },
+  {
+    "instruction": "Write a haiku about learning to ride a bicycle.",
+    "input": "",
+    "output": "Fall. Rise. Fall again.\nThen—the moment the road\ndecides to hold you."
+  },
+  {
+    "instruction": "Write a poem about the last train on a closing line.",
+    "input": "",
+    "output": "The platform is the same.\nThe schedule is not.\nSomeone has chalked LAST RUN\non the board in careful letters\nas if ceremony might soften it.\n\nThe conductor's voice is steady.\nThe passengers pretend to read.\nOutside, the towns go by\nthe way they always did—\nlit kitchen windows, dogs at fences,\nthe particular dark of fields at night.\n\nAt the end of the line,\nno one is waiting.\nThe train sits in the quiet\nfor a minute longer than usual.\n\nThen the lights go out."
+  },
+  {
+    "instruction": "Write a haiku about a clockmaker.",
+    "input": "",
+    "output": "His hands know the gears\nbetter than his own heartbeat—\nboth keeping strange time."
+  },
+  {
+    "instruction": "Write a short poem about bread being baked.",
+    "input": "",
+    "output": "Before the city wakes,\nthe oven has been going three hours.\n\nFlour and water and yeast—\nthe original chemistry,\nolder than writing,\nolder than money,\n\nthe slow conversation\nbetween heat and grain\nthat ends the same way every time:\nsomething simple\nbecoming something necessary."
+  },
+  {
+    "instruction": "Write a poem about two people saying goodbye at a train station.",
+    "input": "",
+    "output": "The announcement says five minutes.\nWe have been standing here\npracticing for this.\n\nI will say: take care.\nYou will say: I know.\nWe will mean something larger\nthan the words can hold.\n\nThe train will do what trains do.\nThe platform will empty.\nI will stand here a moment longer\nthan necessary,\nwhich is the only ceremony\nI have left to offer."
+  },
+  {
+    "instruction": "Write a haiku about stars.",
+    "input": "",
+    "output": "The light you are seeing\nleft before you were born—\nyou are both still here."
+  },
+  {
+    "instruction": "Write a short poem about an empty chair.",
+    "input": "",
+    "output": "It holds the shape\nof not being sat in.\n\nThe table is set for five.\nThe chair does not know this.\nIt simply stands\nwhere it has always stood,\nexact and patient,\nwaiting to be wrong about nothing."
+  },
+  {
+    "instruction": "Write a poem about someone learning a new skill late in life.",
+    "input": "",
+    "output": "She is sixty-three and learning the violin.\nHer teacher is twenty-two\nand has not yet learned\nhow not to wince.\n\nIt does not matter.\nShe practices in the kitchen\nafter dinner,\nthe bow finding its angle\nthe way a door finds its frame—\nclumsily at first,\nthen with increasing certainty.\n\nBy spring she can play one song\nfrom beginning to end\nwithout stopping.\n\nShe plays it for no one\nand for everyone."
+  },
+  {
+    "instruction": "Write a haiku about fog lifting over water.",
+    "input": "",
+    "output": "The fog lifts slowly.\nWhat was hidden was always\nthere—waiting, patient."
+  },
+  {
+    "instruction": "Write a short poem about a letter that arrives too late.",
+    "input": "",
+    "output": "Thirty years in a drawer\nin a house that has changed hands twice.\n\nThe handwriting is young—\nyou can tell by the pressure,\nthe way certainty leans into the pen.\n\nThe envelope is addressed\nto someone who moved away\nbefore it arrived,\nwho has since become\na different person entirely.\n\nThe letter says: I should have said this sooner.\nThe letter says: here is what I should have said.\n\nIt is read now, finally,\nby someone who needed it\nwithout knowing that they did."
+  },
+  {
+    "instruction": "Write a haiku about an old tree.",
+    "input": "",
+    "output": "The oak was here first.\nIt will still be here after.\nWe are the visitors."
+  },
+  {
+    "instruction": "Write a poem about the smell of a bakery in the morning.",
+    "input": "",
+    "output": "This is what three a.m. smells like\nwhen someone has been working\nwhile you were sleeping:\n\nyeast and warmth and the particular sweetness\nof something becoming itself,\n\nthe flour-dust air\nthat settles on everything\nand is not unpleasant,\n\nthe window beginning to glow\nfrom inside\nbefore the street has decided\nto be morning yet."
+  },
+  {
+    "instruction": "Write a haiku about the ocean at night.",
+    "input": "",
+    "output": "The dark water moves\nwhether or not anyone\nstands here watching it."
+  },
+  {
+    "instruction": "Write a short poem from the perspective of an old lighthouse.",
+    "input": "",
+    "output": "I have outlasted the ships I saved\nand the keepers who saved them.\n\nThe lens still turns.\nThe mechanism is simple:\na motor, a gear, a light—\nand the dark, which is always there\nand always the same size.\n\nThe ships are different now.\nThey navigate by satellite.\nThey do not need me.\n\nI keep turning anyway.\nThis is what I know how to do."
+  },
+  {
+    "instruction": "Write a haiku about a detective examining a clue.",
+    "input": "",
+    "output": "One small thing out of place.\nEverything else was arranged—\nexcept this. Except this."
+  },
+  {
+    "instruction": "Write a poem about returning home after a long absence.",
+    "input": "",
+    "output": "The street is the same length.\nThe houses have been repainted.\nThe tree that was small is now\nlarger than the house beside it.\n\nYou are the only thing\nthat has changed in the way you expected.\n\nThe key still fits.\nThis is either comforting\nor the saddest thing—\nyou cannot tell yet.\n\nYou put down your bag.\nThe house is quiet.\nOutside, someone is mowing a lawn.\n\nSomewhere in this\nis the word for coming back\nto a place that did not wait\nbut is nonetheless still here."
+  }
+]
